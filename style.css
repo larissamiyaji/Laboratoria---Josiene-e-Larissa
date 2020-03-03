@@ -1,0 +1,51 @@
+h1{
+  color:white;
+  text-align: center;
+}
+body{
+  background-color: blue;
+}
+#saudacao{
+  text-align: center;
+}
+#endgame{
+  text-align: center;
+}
+#results{
+  text-align: center;
+}
+
+h2{
+  font-size: 150%;
+  display: inline-block;
+}
+#container{
+  width: 100%;
+  display: inline-block;
+
+}
+#respostas1{
+  background: yellow;
+  margin-left: 100px;
+  margin-right: 500px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 2px solid black;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 40%;
+  vertical-align: top;
+
+}
+#respostas2{
+  background: yellow;
+  margin-left: 500px;
+  margin-right: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 2px solid black;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 40%;
+  vertical-align: top;
+}

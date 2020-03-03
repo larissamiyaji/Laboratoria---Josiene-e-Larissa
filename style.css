@@ -7,12 +7,14 @@ body{
 }
 #saudacao{
   text-align: center;
+  font-size: 44px;
 }
 #endgame{
   text-align: center;
 }
 #results{
   text-align: center;
+  font-size: 44px;
 }
 
 h2{
@@ -26,8 +28,8 @@ h2{
 }
 #respostas1{
   background: yellow;
-  margin-left: 100px;
-  margin-right: 500px;
+  margin-left: auto;
+  margin-right: 200px;
   padding-left: 50px;
   padding-right: 50px;
   border: 2px solid black;
@@ -35,12 +37,14 @@ h2{
   box-sizing: border-box;
   width: 40%;
   vertical-align: top;
+  height: 250px;
+  color: green;
 
 }
 #respostas2{
   background: yellow;
-  margin-left: 500px;
-  margin-right: 100px;
+  margin-left: 50px;
+  margin-right: auto;
   padding-left: 50px;
   padding-right: 50px;
   border: 2px solid black;
@@ -48,4 +52,6 @@ h2{
   box-sizing: border-box;
   width: 40%;
   vertical-align: top;
+  height: 250px;
+  color: red;
 }
